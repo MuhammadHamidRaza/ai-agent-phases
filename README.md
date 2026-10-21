@@ -24,6 +24,9 @@
 
 > 💡 **This is not a framework or a CLI.** It is four Markdown files and two ready-to-paste prompts (one for people **with** Spec Kit, one for people **without** it). Setup takes about ten minutes.
 
+## Topics
+ai-agents, claude-code, opencode, codex-cli, gemini-cli, spec-driven-development, spec-kit, agents-md, developer-workflow, prompt-engineering
+
 <details>
 <summary><b>📑 Table of contents (click to open)</b></summary>
 
