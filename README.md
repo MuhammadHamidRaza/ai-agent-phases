@@ -567,14 +567,14 @@ I'm **Hamid Raza**, an agentic AI and MERN stack developer from Pakistan. I shar
 
 <p>
   <a href="https://www.youtube.com/@buildwithaihamid"><img src="https://img.shields.io/badge/YouTube-Build_With_AI-FF0000?style=for-the-badge" alt="YouTube"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/hamid-raza-b249162a8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://github.com/MuhammadHamidRaza"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge" alt="GitHub"></a>
 </p>
 <p>
-  <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge" alt="X"></a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge" alt="Instagram"></a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK-PAGE"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge" alt="Facebook"></a>
-  <a href="https://www.tiktok.com/@YOUR-TIKTOK-HANDLE"><img src="https://img.shields.io/badge/TikTok-Follow-010101?style=for-the-badge" alt="TikTok"></a>
+  <a href="https://x.com/hamid_raza_agi"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge" alt="X"></a>
+  <a href="https://www.instagram.com/hamidraza.agi/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge" alt="Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=61574004193119"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge" alt="Facebook"></a>
+  <a href="https://www.tiktok.com/@hamidraza.agi"><img src="https://img.shields.io/badge/TikTok-Follow-010101?style=for-the-badge" alt="TikTok"></a>
 </p>
 
 | 📚 Free resources | Link |
